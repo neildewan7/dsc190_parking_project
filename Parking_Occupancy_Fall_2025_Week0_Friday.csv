@@ -1,0 +1,113 @@
+Parking Occupancy : Fall 2025 Week 0,,,,,,
+"Friday, September 26, 2025",,,Available Spaces,,,
+Space Type,,Location,8:00 AM,10:00 AM,12:00 PM,2:00 PM
+A,Structure,8980,23,18,21,18
+A,,Athena,177,143,101,102
+A,,Campus Point East,117,42,11,12
+A,,Campus Point West,1,0,0,0
+A,,Gilman,172,134,88,112
+A,,Hopkins,121,90,77,84
+A,,Pangea,67,52,44,35
+A,,Scholars,246,219,187,197
+A,,South,384,203,197,228
+A,,TDLLN,205,162,89,111
+A,Surface Lot,P201,5,1,1,9
+A,,P206,16,5,7,0
+A,,P351,19,12,12,13
+A,,P414,1,0,3,3
+A,,P503,1,0,0,0
+A,,P506,0,0,0,0
+A,,P508,0,0,0,0
+A,,P510,0,0,0,0
+A,,P602,24,14,20,17
+A,,P603,20,6,2,6
+A,,P610,31,0,3,4
+A,,P706,0,0,0,0
+A,,P759,0,0,1,0
+B,Structure,8980,16,13,10,9
+B,,Athena,155,126,83,99
+B,,Gilman,0,0,1,5
+B,,Hopkins,209,197,180,197
+B,,Mesa Canyon,100,25,10,12
+B,,Pangea,41,25,14,11
+B,,Scholars,28,19,10,11
+B,,South,190,18,88,139
+B,,TDLLN,241,133,88,106
+B,,Torrey Pines Center North,107,86,80,90
+B,,Torrey Pines Center South,57,44,40,46
+B,Surface Lot,P001,8,4,2,2
+B,,P002,21,6,0,2
+B,,P003,30,13,7,5
+B,,P006,8,7,4,3
+B,,P007,24,14,10,5
+B,,P008,21,8,3,3
+B,,P010,18,9,3,1
+B,,P011,16,7,2,2
+B,,P012,10,5,0,0
+B,,P013,10,10,3,2
+B,,P014,60,49,4,1
+B,,P032,9,4,2,0
+B,,P206,0,0,0,0
+B,,P303,12,5,1,0
+B,,P304,48,41,37,42
+B,,P357,95,18,34,26
+B,,P359,7,4,13,17
+B,,P384,156,67,25,22
+B,,P406,2,0,2,0
+B,,P503,0,0,0,0
+B,,P507,24,14,7,5
+B,,P510,4,1,0,0
+B,,P604,0,0,0,0
+B,,P702,69,43,47,51
+B,,P706,0,0,0,0
+B,,P707,65,49,21,20
+B,,P784,0,0,0,0
+B,,P785,90,29,7,17
+D,Surface Lot,P703,211,170,34,45
+D,,P704,472,352,141,113
+D,,P705,260,253,122,132
+S,Structure,8980,52,52,50,52
+S,,Pangea,52,15,6,3
+S,Surface Lot,P014,27,21,4,2
+S,,P016,44,38,32,29
+S,,P021,,,,
+S,,P701,372,359,211,199
+SR,Structure,Hopkins,19,2,0,0
+SR,,Pangea,81,64,44,39
+SR,,Scholars,36,27,25,24
+SR,,South,34,23,29,33
+SR,,TDLLN,47,51,51,50
+SR,Surface Lot,P401,41,44,50,49
+SR,,P504,1,0,5,6
+Visitor,Structure,8980,39,38,35,39
+Visitor,,Athena,179,130,99,88
+Visitor,,Campus Point East,137,107,91,85
+Visitor,,Campus Point West,375,238,189,183
+Visitor,,Gilman,39,4,7,4
+Visitor,,Hopkins,25,16,1,0
+Visitor,,Pangea,27,15,8,5
+Visitor,,Scholars,72,22,12,7
+Visitor,,South,87,47,44,50
+Visitor,,TDLLN,118,96,84,70
+Visitor,,Torrey Pines Center North,9,6,5,4
+Visitor,,Torrey Pines Center South,7,5,4,4
+Visitor,Surface Lot,P014,2,0,0,0
+Visitor,,P017,227,189,166,172
+Visitor,,P032,10,6,1,1
+Visitor,,P106,3,3,2,2
+Visitor,,P113,19,1,8,11
+Visitor,,P206,1,0,1,0
+Visitor,,P303,25,9,10,15
+Visitor,,P357,10,0,5,7
+Visitor,,P385,164,111,82,77
+Visitor,,P402,3,3,1,0
+Visitor,,P503,4,1,2,2
+Visitor,,P504,2,1,1,0
+Visitor,,P506,9,1,1,0
+Visitor,,P507,0,0,0,0
+Visitor,,P508,0,0,0,0
+Visitor,,P510,5,1,0,0
+Visitor,,P602,4,0,1,1
+Visitor,,P603,29,19,11,25
+Visitor,,P703,211,170,6,6
+Visitor,,P752,0,0,0,0

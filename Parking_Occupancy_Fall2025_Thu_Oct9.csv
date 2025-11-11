@@ -1,0 +1,109 @@
+Space Type,Location,8:00 AM,10:00 AM,12:00 PM,2:00 PM
+A,Structure,8980,30,27,25
+A,Athena,211,218,214,120
+A,Campus Point East,40,11,22,12
+A,Campus Point West,6,4,4,4
+A,Gilman,163,105,82,59
+A,Hopkins,115,97,75,85
+A,Pangea,52,41,32,39
+A,Scholars,237,210,193,182
+A,South,273,208,185,105
+A,TDLLN,123,66,88,69
+A,Surface Lot,P201,3,0,0
+A,P206,10,14,6,8
+A,P351,18,9,0,3
+A,P402,2,1,2,1
+A,P414,2,2,1,2
+A,P503,0,0,0,0
+A,P506,0,0,0,0
+A,P508,,,,
+A,P510,11,1,1,0
+A,P602,38,20,11,7
+A,P603,19,3,0,0
+A,P610,29,3,0,1
+A,P706,0,0,0,1
+A,P759,8,5,4,5
+B,Structure,8980,21,14,7
+B,Athena,223,223,103,125
+B,Gilman,0,0,1,0
+B,Hopkins,227,209,181,190
+B,Mesa Canyon,111,72,3,2
+B,Pangea,29,21,12,15
+B,Scholars,20,13,17,15
+B,South,151,44,34,7
+B,TDLLN,155,30,3,19
+B,Torrey Pines Center North,5,4,69,91
+B,Torrey Pines Center South,257,29,107,253
+B,Surface Lot,P001,4,5,3
+B,P002,14,13,7,8
+B,P003,43,28,1,0
+B,P006,0,0,0,0
+B,P007,2,1,0,3
+B,P008,3,1,2,0
+B,P010,6,2,1,0
+B,P011,3,2,0,0
+B,P012,4,2,0,0
+B,P013,9,6,1,1
+B,P014,65,48,19,14
+B,P032,10,8,0,6
+B,P206,0,0,0,0
+B,P303,6,1,0,0
+B,P304,31,6,5,4
+B,P357,82,0,1,2
+B,P359,11,0,0,3
+B,P384,122,73,6,5
+B,P406,4,1,0,0
+B,P503,0,0,0,0
+B,P507,16,3,6,8
+B,P510,6,0,0,0
+B,P604,0,0,0,0
+B,P702,50,33,26,20
+B,P706,0,0,0,0
+B,P707,52,20,23,21
+B,P784,0,0,2,4
+B,P785,43,28,32,37
+S,Structure,8980,39,39,35
+S,Pangea,46,10,5,7
+S,Surface Lot,P014,30,22,15
+S,P016,42,25,24,30
+S,P021,75,72,62,74
+S,P701,230,201,210,187
+SR,Structure,Hopkins,15,3,1
+SR,Pangea,79,56,40,47
+SR,Scholars,36,24,20,20
+SR,South,4,23,18,6
+SR,TDLLN,58,34,29,36
+SR,Surface Lot,P401,33,4,40
+SR,P504,3,5,1,2
+Visitor,Structure,8980,39,21,15
+Visitor,Athena,131,122,92,82
+Visitor,Campus Point East,0,0,0,0
+Visitor,Campus Point West,188,116,227,110
+Visitor,Gilman,50,32,18,10
+Visitor,Hopkins,25,19,1,0
+Visitor,Pangea,20,12,6,6
+Visitor,Scholars,77,24,10,6
+Visitor,South,45,37,21,7
+Visitor,TDLLN,98,64,28,56
+Visitor,Torrey Pines Center North,8,11,11,8
+Visitor,Torrey Pines Center South,5,0,20,15
+Visitor,Surface Lot,P014,3,2,1
+Visitor,P017,181,156,75,85
+Visitor,P032,0,0,1,2
+Visitor,P106,1,0,0,0
+Visitor,P113,18,7,5,2
+Visitor,P206,4,1,2,3
+Visitor,P303,10,5,1,0
+Visitor,P357,8,1,0,1
+Visitor,P385,176,140,6,7
+Visitor,P402,0,0,0,0
+Visitor,P503,2,0,0,1
+Visitor,P504,2,2,1,2
+Visitor,P506,7,2,0,3
+Visitor,P507,14,0,0,0
+Visitor,P508,,,,
+Visitor,P510,5,0,0,0
+Visitor,P602,16,6,4,1
+Visitor,P603,11,9,0,0
+Visitor,P703,0,0,3,2
+Visitor,P752,0,0,0,0

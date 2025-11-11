@@ -1,0 +1,109 @@
+Space Type,Location,8:00 AM,10:00 AM,12:00 PM,2:00 PM
+A,Structure,8980,46,34,15
+A,Athena,171,175,115,126
+A,Campus Point East,70,34,24,47
+A,Campus Point West,0,1,0,0
+A,Gilman,253,173,103,92
+A,Hopkins,107,92,69,80
+A,Pangea,54,41,30,33
+A,Scholars,213,200,179,165
+A,South,356,302,194,202
+A,TDLLN,157,70,50,128
+A,Surface Lot,P201,0,0,0
+A,P206,11,5,16,11
+A,P351,21,5,5,8
+A,P402,6,3,0,2
+A,P414,0,0,0,2
+A,P503,0,1,0,0
+A,P506,0,0,0,0
+A,P508,0,0,0,0
+A,P510,0,0,0,0
+A,P602,89,34,24,30
+A,P603,22,12,3,6
+A,P610,61,1,7,8
+A,P706,3,0,0,1
+A,P759,3,0,53,23
+B,Structure,8980,47,34,22
+B,Athena,198,122,115,126
+B,Gilman,0,0,0,0
+B,Hopkins,216,200,178,188
+B,Mesa Canyon,43,23,27,38
+B,Pangea,29,19,11,12
+B,Scholars,17,15,11,9
+B,South,264,41,5,25
+B,TDLLN,198,126,52,69
+B,Torrey Pines Center North,1,1,89,118
+B,Torrey Pines Center South,89,40,51,65
+B,Surface Lot,P001,8,3,4
+B,P002,50,13,21,22
+B,P003,27,16,19,14
+B,P006,1,0,1,2
+B,P007,13,0,8,10
+B,P008,20,4,0,2
+B,P010,19,2,3,4
+B,P011,15,12,5,7
+B,P012,10,6,1,0
+B,P013,12,10,2,4
+B,P014,69,43,31,30
+B,P032,10,7,0,3
+B,P206,0,0,0,0
+B,P303,4,0,0,0
+B,P304,26,4,5,3
+B,P357,84,17,16,3
+B,P359,14,1,6,4
+B,P384,130,90,23,24
+B,P406,2,0,2,2
+B,P503,0,0,0,0
+B,P507,19,11,7,8
+B,P510,0,0,0,0
+B,P604,0,0,0,0
+B,P702,111,61,50,46
+B,P706,39,3,0,4
+B,P707,83,43,25,29
+B,P784,3,0,5,3
+B,P785,0,1,0,2
+S,Structure,8980,63,61,48
+S,Pangea,43,11,4,6
+S,Surface Lot,P014,18,9,15
+S,P016,44,38,26,33
+S,P021,74,75,74,75
+S,P701,256,262,260,235
+SR,Structure,Hopkins,22,2,0
+SR,Pangea,70,55,39,37
+SR,Scholars,32,23,19,16
+SR,South,33,29,26,31
+SR,TDLLN,42,45,42,49
+SR,Surface Lot,P401,47,31,44
+SR,P504,2,1,0,0
+Visitor,Structure,8980,29,27,39
+Visitor,Athena,99,45,54,76
+Visitor,Campus Point East,163,119,128,136
+Visitor,Campus Point West,298,242,285,267
+Visitor,Gilman,76,5,24,2
+Visitor,Hopkins,23,16,1,0
+Visitor,Pangea,22,13,7,9
+Visitor,Scholars,70,15,9,6
+Visitor,South,89,68,42,53
+Visitor,TDLLN,48,41,39,48
+Visitor,Torrey Pines Center North,10,10,9,7
+Visitor,Torrey Pines Center South,7,0,10,15
+Visitor,Surface Lot,P014,2,0,1
+Visitor,P017,218,189,58,76
+Visitor,P032,0,0,0,4
+Visitor,P106,1,1,0,0
+Visitor,P113,2,1,8,0
+Visitor,P206,1,0,4,6
+Visitor,P303,8,4,0,0
+Visitor,P357,8,2,10,10
+Visitor,P385,167,128,55,52
+Visitor,P402,1,0,0,0
+Visitor,P503,3,0,0,1
+Visitor,P504,5,1,0,0
+Visitor,P506,4,1,0,1
+Visitor,P507,0,0,0,0
+Visitor,P508,0,0,0,0
+Visitor,P510,4,2,0,0
+Visitor,P602,7,7,3,0
+Visitor,P603,21,17,10,26
+Visitor,P703,11,9,12,13
+Visitor,P752,0,0,0,0
